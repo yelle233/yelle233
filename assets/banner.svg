@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm yelle233</title>
+  <desc id="desc">机器人、模组，还有一些有趣的小工具。Robotics · Minecraft · Game tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14152f"/><stop offset=".55" stop-color="#241746"/><stop offset="1" stop-color="#103747"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#c4b5fd"/><stop offset=".5" stop-color="#f0abfc"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c4b5fd" opacity=".14"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="340" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1090" cy="20" r="180" fill="#8b5cf6" opacity=".09"/>
+  <circle cx="1140" cy="330" r="150" fill="#22d3ee" opacity=".07"/>
+  <path d="M0 323 Q270 284 568 320 T1200 304 V340 H0Z" fill="#a78bfa" opacity=".12"/>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="56" y="43" width="169" height="28" rx="14" fill="#a78bfa" opacity=".15"/>
+    <circle cx="73" cy="57" r="4" fill="#5eead4"/>
+    <text x="87" y="62" font-size="12" font-weight="600" letter-spacing="1.6" fill="#ddd6fe">HELLO, WORLD!</text>
+    <text x="54" y="148" font-size="67" font-weight="750" letter-spacing="-2" fill="#f8fafc">Hi, I'm <tspan fill="url(#accent)">yelle233</tspan><tspan fill="#67e8f9">.</tspan></text>
+    <text x="58" y="199" font-size="23" fill="#d3cce8">机器人、模组，还有一些有趣的小工具。</text>
+    <g font-size="12" font-weight="600" letter-spacing="1.2">
+      <rect x="58" y="238" width="160" height="33" rx="8" fill="#06b6d4" opacity=".16"/><text x="77" y="259" fill="#a5f3fc">ROS 2 / ROBOTICS</text>
+      <rect x="230" y="238" width="148" height="33" rx="8" fill="#8b5cf6" opacity=".18"/><text x="242" y="259" fill="#ddd6fe">MINECRAFT MODS</text>
+      <rect x="390" y="238" width="132" height="33" rx="8" fill="#f472b6" opacity=".13"/><text x="408" y="259" fill="#fbcfe8">GAME TOOLS</text>
+    </g>
+  </g>
+  <g transform="translate(852 69)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="130" cy="100" r="100" stroke="#a78bfa" stroke-opacity=".22" stroke-dasharray="4 9"/>
+    <path d="M130 24 197 61 197 139 130 177 63 139 63 61Z" stroke="#a78bfa" stroke-width="2" fill="#8b5cf6" fill-opacity=".08"/>
+    <path d="m63 61 67 39 67-39M130 100v77" stroke="#a78bfa" stroke-width="2"/>
+    <path d="m104 85-17 15 17 15m52-30 17 15-17 15m-19-39-14 48" stroke="#e9d5ff" stroke-width="4"/>
+    <circle cx="130" cy="24" r="6" fill="#f0abfc"/><circle cx="197" cy="139" r="6" fill="#67e8f9"/><circle cx="63" cy="139" r="6" fill="#c4b5fd"/>
+    <path d="M30 36v14m-7-7h14M223 165v12m-6-6h12" stroke="#67e8f9" stroke-width="2"/>
+  </g>
+  </g>
+</svg>
