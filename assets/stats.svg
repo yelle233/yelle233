@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">yelle233 · GitHub at a glance</title>
-  <desc id="desc">8 personal public repositories, 47 stars across personal repositories and selected organization projects (21 personal + 26 organization), 3 followers. Organization stars belong to the whole project. Languages by bytes in personal non-fork public repositories only. Updated 2026-11-04 21:50, UTC+8.</desc>
+  <desc id="desc">8 personal public repositories, 47 stars across personal repositories and selected organization projects (21 personal + 26 organization), 3 followers. Organization stars belong to the whole project. Languages by bytes in personal non-fork public repositories only. Updated 2026-11-05 09:30, UTC+8.</desc>
   <rect x="1" y="1" width="1198" height="358" rx="22" fill="#15182b" stroke="#34314e"/>
   <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
     <text x="38" y="48" fill="#ddd6fe" font-size="18" font-weight="700">GitHub 一瞥</text>
@@ -24,4 +24,4 @@
 <circle cx="910" cy="220" r="5" fill="#fbbf24"/><text x="925" y="225" fill="#e2e8f0" font-size="15">Java <tspan fill="#929bb7">2.9%</tspan></text>
 <rect x="1114.98" y="134" width="47.02" height="12" fill="#94a3b8"/>
 <circle cx="635" cy="262" r="5" fill="#94a3b8"/><text x="650" y="267" fill="#e2e8f0" font-size="15">Other <tspan fill="#929bb7">8.8%</tspan></text>
-<line x1="38" y1="309" x2="1162" y2="309" stroke="#30334a"/><text x="38" y="337" fill="#929bb7" font-size="12">获星含列明的组织项目 · 语言仅统计个人非 fork 仓库</text><text x="1162" y="337" text-anchor="end" fill="#929bb7" font-size="12">Updated 2026-11-04 21:50 · UTC+8</text></g></svg>
+<line x1="38" y1="309" x2="1162" y2="309" stroke="#30334a"/><text x="38" y="337" fill="#929bb7" font-size="12">获星含列明的组织项目 · 语言仅统计个人非 fork 仓库</text><text x="1162" y="337" text-anchor="end" fill="#929bb7" font-size="12">Updated 2026-11-05 09:30 · UTC+8</text></g></svg>
