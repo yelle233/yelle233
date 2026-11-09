@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">yelle233 · GitHub at a glance</title>
-  <desc id="desc">9 personal public repositories, 48 stars across personal repositories and selected organization projects (21 personal + 27 organization), 3 followers. Organization stars belong to the whole project. Languages by bytes in personal non-fork public repositories only. Updated 2026-11-08 08:46, UTC+8.</desc>
+  <desc id="desc">9 personal public repositories, 49 stars across personal repositories and selected organization projects (22 personal + 27 organization), 3 followers. Organization stars belong to the whole project. Languages by bytes in personal non-fork public repositories only. Updated 2026-11-09 08:59, UTC+8.</desc>
   <rect x="1" y="1" width="1198" height="358" rx="22" fill="#15182b" stroke="#34314e"/>
   <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
     <text x="38" y="48" fill="#ddd6fe" font-size="18" font-weight="700">GitHub 一瞥</text>
@@ -9,9 +9,9 @@
     <line x1="590" y1="94" x2="590" y2="293" stroke="#30334a"/>
     <text x="38" y="111" fill="#929bb7" font-size="12" letter-spacing="2">SMALL IDEAS, REAL PROJECTS</text>
 <text x="38" y="193" fill="#c4b5fd" font-size="55" font-weight="700">9</text><text x="38" y="227" fill="#cbd5e1" font-size="16">个人公开仓库</text>
-<text x="224" y="193" fill="#f9a8d4" font-size="55" font-weight="700">48</text><text x="224" y="227" fill="#cbd5e1" font-size="16">项目获星</text>
+<text x="224" y="193" fill="#f9a8d4" font-size="55" font-weight="700">49</text><text x="224" y="227" fill="#cbd5e1" font-size="16">项目获星</text>
 <text x="410" y="193" fill="#67e8f9" font-size="55" font-weight="700">3</text><text x="410" y="227" fill="#cbd5e1" font-size="16">关注者</text>
-<text x="38" y="283" fill="#929bb7" font-size="14">个人仓库 21 星 + 组织项目 27 星</text>
+<text x="38" y="283" fill="#929bb7" font-size="14">个人仓库 22 星 + 组织项目 27 星</text>
 <text x="628" y="111" fill="#929bb7" font-size="12" letter-spacing="2">LANGUAGES / BY CODE SIZE</text>
 <rect x="628" y="134" width="534" height="12" rx="6" fill="#30334a"/>
 <rect x="628.00" y="134" width="400.74" height="12" fill="#a78bfa"/>
@@ -24,4 +24,4 @@
 <circle cx="910" cy="220" r="5" fill="#fbbf24"/><text x="925" y="225" fill="#e2e8f0" font-size="15">Java <tspan fill="#929bb7">2.9%</tspan></text>
 <rect x="1105.65" y="134" width="56.35" height="12" fill="#94a3b8"/>
 <circle cx="635" cy="262" r="5" fill="#94a3b8"/><text x="650" y="267" fill="#e2e8f0" font-size="15">Other <tspan fill="#929bb7">10.6%</tspan></text>
-<line x1="38" y1="309" x2="1162" y2="309" stroke="#30334a"/><text x="38" y="337" fill="#929bb7" font-size="12">获星含列明的组织项目 · 语言仅统计个人非 fork 仓库</text><text x="1162" y="337" text-anchor="end" fill="#929bb7" font-size="12">Updated 2026-11-08 08:46 · UTC+8</text></g></svg>
+<line x1="38" y1="309" x2="1162" y2="309" stroke="#30334a"/><text x="38" y="337" fill="#929bb7" font-size="12">获星含列明的组织项目 · 语言仅统计个人非 fork 仓库</text><text x="1162" y="337" text-anchor="end" fill="#929bb7" font-size="12">Updated 2026-11-09 08:59 · UTC+8</text></g></svg>
